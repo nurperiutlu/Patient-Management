@@ -11,7 +11,8 @@ pipeline {
                 {
                     steps 
                     {
-                        git "https://github.com/nurperiutlu/Patient-Manager.git"
+                        git " https://github.com/nurperiutlu/Patientmanagement.git"
+                               
                     }
                 }
                  
